@@ -433,6 +433,13 @@ input[type="checkbox"] {
         left: 50%;
     }
 
+    .wrapper ul li a:after {
+        background-color: none;
+    }
+
+    .wrapper ul {
+        left: 35%;
+    }
 
     .row.reverce-row {
         flex-direction: column-reverse;

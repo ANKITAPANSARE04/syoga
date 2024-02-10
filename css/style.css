@@ -429,9 +429,10 @@ input[type="checkbox"] {
         width: 100%;
     }
 
-    .home-hero h1 {
-        font-size: 2rem;
+    .hero-text {
+        left: 50%;
     }
+
 
     .row.reverce-row {
         flex-direction: column-reverse;
